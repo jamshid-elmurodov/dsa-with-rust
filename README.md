@@ -1,4 +1,4 @@
-## 🦀 33 Days of Rust + DSA Challenge (to‘liq 33 kun, balanslangan)
+## 🦀 33 Days of Rust + DSA
 
 ### **Day 1 - Arrays**
 
