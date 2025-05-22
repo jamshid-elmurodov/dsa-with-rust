@@ -1,7 +1,5 @@
 ## 🦀 33 Days of Rust + DSA Challenge (to‘liq 33 kun, balanslangan)
 
----
-
 ### **Day 1 - Arrays**
 
 * [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
