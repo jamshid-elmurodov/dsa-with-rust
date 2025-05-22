@@ -1,118 +1,156 @@
-# 🦀 30 Days of Rust + DSA Challenge
+## 🦀 33 Days of Rust + DSA Challenge (to‘liq 33 kun, balanslangan)
 
-## Day 1 - Arrays
-- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [Remove Element](https://leetcode.com/problems/remove-element/)
+---
 
-## Day 2 - Arrays
-- [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
-- [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+### **Day 1 - Arrays**
 
-## Day 3 - Stack
-- [Baseball Game](https://leetcode.com/problems/baseball-game/)
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [Min Stack](https://leetcode.com/problems/min-stack/)
+* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* [Remove Element](https://leetcode.com/problems/remove-element/)
 
-## Day 4 - Linked List
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+### **Day 2 - Arrays**
 
-## Day 5 - Linked List
-- [Design Linked List](https://leetcode.com/problems/design-linked-list/)
-- [Design Browser History](https://leetcode.com/problems/design-browser-history/)
+* [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+* [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 
-## Day 6 - Queue
-- [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
-- [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+### **Day 3 - Stack**
 
-## Day 7 - Recursion
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+* [Baseball Game](https://leetcode.com/problems/baseball-game/)
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-## Day 8 - Sorting
-- [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+### **Day 4 - Stack**
 
-## Day 9 - Merge Sort
-- [Sort an Array](https://leetcode.com/problems/sort-an-array/)
-- [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+* [Min Stack](https://leetcode.com/problems/min-stack/)
 
-## Day 10 - Quick Sort
-- [Sort an Array](https://leetcode.com/problems/sort-an-array/)
-- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+### **Day 5 - Linked List**
 
-## Day 11 - Bucket Sort
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
-## Day 12 - Binary Search
-- [Binary Search](https://leetcode.com/problems/binary-search/)
-- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+### **Day 6 - Linked List**
 
-## Day 13 - BST
-- [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-- [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
-## Day 14 - BST II
-- [Insert into a BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
-- [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+### **Day 7 - Linked List / Stack**
 
-## Day 15 - Tree Traversal
-- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+* [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 
-## Day 16 - Tree Construction
-- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+### **Day 8 - Queue**
 
-## Day 17 - Tree BFS
-- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+* [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+* [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
-## Day 18 - Backtracking I
-- [Path Sum](https://leetcode.com/problems/path-sum/)
-- [Subsets](https://leetcode.com/problems/subsets/)
+### **Day 9 - Recursion**
 
-## Day 19 - Backtracking II
-- [Combination Sum](https://leetcode.com/problems/combination-sum/)
+* [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+* [Reverse Linked List (recursively)](https://leetcode.com/problems/reverse-linked-list/)
 
-## Day 20 - Heap I
-- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+### **Day 10 - Sorting**
 
-## Day 21 - Heap II
-- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
-- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+* [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 
-## Day 22 - Heap III
-- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+### **Day 11 - Sorting**
 
-## Day 23 - Hashing I
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Two Sum](https://leetcode.com/problems/two-sum/)
+* [Sort Colors](https://leetcode.com/problems/sort-colors/)
+* [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
-## Day 24 - Hashing II
-- [Design HashSet](https://leetcode.com/problems/design-hashset/)
-- [Design HashMap](https://leetcode.com/problems/design-hashmap/)
+### **Day 12 - Sorting**
 
-## Day 25 - Graphs I
-- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+* [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-## Day 26 - Matrix BFS
-- [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
-- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+### **Day 13 - Binary Search**
 
-## Day 27 - Graphs II
-- [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [Course Schedule](https://leetcode.com/problems/course-schedule/)
+* [Binary Search](https://leetcode.com/problems/binary-search/)
+* [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
-## Day 28 - DP I
-- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [House Robber](https://leetcode.com/problems/house-robber/)
+### **Day 14 - BST**
 
-## Day 29 - DP II
-- [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
-- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+* [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+* [Insert into a BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
-## Day 30 - Bit Manipulation
-- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+### **Day 15 - BST**
+
+* [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-binary-search-tree/)
+* [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+### **Day 16 - Tree Traversal**
+
+* [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+* [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+### **Day 17 - Tree Construction**
+
+* [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+### **Day 18 - Tree BFS**
+
+* [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+### **Day 19 - Tree BFS**
+
+* [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+### **Day 20 - Backtracking**
+
+* [Path Sum](https://leetcode.com/problems/path-sum/)
+* [Subsets](https://leetcode.com/problems/subsets/)
+
+### **Day 21 - Backtracking**
+
+* [Combination Sum](https://leetcode.com/problems/combination-sum/)
+
+### **Day 22 - DP**
+
+* [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+* [House Robber](https://leetcode.com/problems/house-robber/)
+
+### **Day 23 - Heap**
+
+* [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+* [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+### **Day 24 - Heap**
+
+* [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+### **Day 25 - Hashing**
+
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* [Two Sum](https://leetcode.com/problems/two-sum/)
+
+### **Day 26 - Hashing**
+
+* [Design HashSet](https://leetcode.com/problems/design-hashset/)
+* [Design HashMap](https://leetcode.com/problems/design-hashmap/)
+
+### **Day 27 - Graph**
+
+* [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+### **Day 28 - Graph**
+
+* [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+* [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
+### **Day 29 - Graph**
+
+* [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+* [Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+### **Day 30 - Graph**
+
+* [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+### **Day 31 - DP**
+
+* [Unique Paths](https://leetcode.com/problems/unique-paths/)
+* [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+
+### **Day 32 - DP**
+
+* [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+### **Day 33 - Bit Manipulation**
+
+* [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+* [Counting Bits](https://leetcode.com/problems/counting-bits/)
+* [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
