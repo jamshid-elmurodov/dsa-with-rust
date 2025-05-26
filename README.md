@@ -1,6 +1,6 @@
 ## 🦀 33 Days of Rust + DSA
 
-### **Day 1 - Arrays**
+### **Day 1 - Arrays ✅**
 
 * [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [Remove Element](https://leetcode.com/problems/remove-element/)
