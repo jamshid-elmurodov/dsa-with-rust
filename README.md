@@ -5,7 +5,7 @@
 * [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [Remove Element](https://leetcode.com/problems/remove-element/)
 
-### **Day 2 - Arrays**
+### **Day 2 - Arrays ✅**
 
 * [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 * [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
