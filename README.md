@@ -10,7 +10,7 @@
 * [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 * [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 
-### **Day 3 - Stack**
+### **Day 3 - Stack ✅**
 
 * [Baseball Game](https://leetcode.com/problems/baseball-game/)
 * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
