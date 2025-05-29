@@ -15,7 +15,7 @@
 * [Baseball Game](https://leetcode.com/problems/baseball-game/)
 * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-### **Day 4 - Stack**
+### **Day 4 - Stack ✅**
 
 * [Min Stack](https://leetcode.com/problems/min-stack/)
 
