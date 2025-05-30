@@ -19,7 +19,7 @@
 
 * [Min Stack](https://leetcode.com/problems/min-stack/)
 
-### **Day 5 - Linked List**
+### **Day 5 - Linked List ✅**
 
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
