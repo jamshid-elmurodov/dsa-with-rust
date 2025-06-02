@@ -1,4 +1,4 @@
-## 🦀 33 Days of Rust + DSA
+## 🦀 33 Days of DSA
 
 ### **Day 1 - Arrays ✅**
 
@@ -24,7 +24,7 @@
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
-### **Day 6 - Linked List**
+### **Day 6 - Linked List ✅**
 
 * [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
