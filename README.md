@@ -1,4 +1,4 @@
-## 🦀 33 Days of DSA
+## 33 Days of DSA
 
 ### **Day 1 - Arrays ✅**
 
