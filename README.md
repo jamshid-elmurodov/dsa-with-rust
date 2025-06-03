@@ -28,16 +28,16 @@
 
 * [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 
-### **Day 7 - Linked List / Stack**
+### **Day 7 - Linked List / Stack ✅**
 
 * [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 
-### **Day 8 - Queue**
+### **Day 8 - Queue ✅**
 
 * [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 * [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
-### **Day 9 - Recursion**
+### **Day 9 - Recursion ✅**
 
 * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 * [Reverse Linked List (recursively)](https://leetcode.com/problems/reverse-linked-list/)
