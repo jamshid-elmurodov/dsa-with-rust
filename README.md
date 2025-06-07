@@ -42,7 +42,7 @@
 * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 * [Reverse Linked List (recursively)](https://leetcode.com/problems/reverse-linked-list/)
 
-### **Day 10 - Sorting**
+### **Day 10 - Sorting ✅**
 
 * [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 
