@@ -46,7 +46,7 @@
 
 * [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 
-### **Day 11 - Sorting**
+### **Day 11 - Sorting ✅**
 
 * [Sort Colors](https://leetcode.com/problems/sort-colors/)
 * [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
